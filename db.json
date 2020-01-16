@@ -1,0 +1,40 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Hello World",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2020-01-16T18:51:01.981Z"
+    },
+    {
+      "message": "good",
+      "attention": true,
+      "tech": "Look Good",
+      "date": "2020-01-15T20:50:26.117Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "SVIATASLAU",
+      "lastName": "USHEV",
+      "id": 4
+    }
+  ]
+}
